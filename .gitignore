@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# 运行时生成的数据（可重新生成，不必上传）
+chroma_db/
+chat_history/
+md5.text
+
+# 环境配置（如果以后用 .env 存密钥，绝不能上传）
+.env
